@@ -13,6 +13,12 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+# Tidal Benchmark Reports by Station
+<a target="_blank" href="https://colab.research.google.com/github/NSCC-HydroPandas/Canadian-Tidal-Data-Metadat/blob/main/Creating_Benchmark_Reports.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 
 
 
