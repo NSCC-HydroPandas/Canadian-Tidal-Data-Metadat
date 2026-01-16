@@ -3,7 +3,12 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Tidal Monthly Means Download
+# Tidal Monthly Means Downloads by Station
+<a target="_blank" href="https://colab.research.google.com/github/NSCC-HydroPandas/Canadian-Tidal-Data-Metadat/blob/main/Downloading_Monthly_Means_by_Station.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+# Tidal Monthly Means Downloads Multi-Station
 <a target="_blank" href="https://colab.research.google.com/github/NSCC-HydroPandas/Canadian-Tidal-Data-Metadat/blob/main/Downloading_Monthly_Means_by_Station.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
