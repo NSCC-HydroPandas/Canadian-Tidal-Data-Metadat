@@ -9,7 +9,7 @@
 </a>
 
 # Tidal Monthly Means Downloads Multi-Station
-<a target="_blank" href="https://colab.research.google.com/github/NSCC-HydroPandas/Canadian-Tidal-Data-Metadat/blob/main/Downloading_Monthly_Means_by_Station.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/NSCC-HydroPandas/Canadian-Tidal-Data-Metadat/blob/main/Downloading_Monthly_Means_MultiStation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
